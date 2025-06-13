@@ -1,0 +1,9 @@
+{
+  "name": "MegaMeatballStore",
+  "symbol": "MEAT",
+  "address": "m83otjbicxk1axBxwM1YVTqCscjskucs79S4TRfvvC1",
+  "chainId": 101,
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/MegaMeatballStore/token-list/main/assets/m83otjbicxk1axBxwM1YVTqCscjskucs79S4TRfvvC1/logo.png",
+  "tags": ["utility-token", "community"]
+}
