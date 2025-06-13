@@ -1,0 +1,17 @@
+{
+  "name": "MegaMeatballStore",
+  "symbol": "MEAT",
+  "description": "MEAT is the delicious utility token behind MegaMeatballStore – backed by a Shopify brand with quarterly dividends to holders.",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/token-list/main/assets/m83otjbicxk1axBxwM1YVTqCscjskucs79S4TRfvvC1/logo.png",
+  "decimals": 9,
+  "attributes": [
+    { "trait_type": "Utility", "value": "Dividend Token" },
+    { "trait_type": "Ecosystem", "value": "MegaMeatballStore" }
+  ],
+  "extensions": {
+    "website": "https://meagameatballstore.store",
+    "twitter": "https://twitter.com/MegaMeatballOF",
+    "telegram": "",
+    "github": "https://github.com/MegaMeatballStore"
+  }
+}
